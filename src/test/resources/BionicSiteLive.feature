@@ -10,3 +10,4 @@ So that site opens successfully
   Examples:
   | url                               |
   | https://bionic-qa.makeiteasy.com/ |
+  | *****://bionic-qa.makeiteasy.com/ |
